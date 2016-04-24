@@ -1,0 +1,5 @@
+module CPicoHTTPParser [system] {
+    header "picohttpparser.h"
+    link "CPicoHTTPParser"
+    export *
+}
